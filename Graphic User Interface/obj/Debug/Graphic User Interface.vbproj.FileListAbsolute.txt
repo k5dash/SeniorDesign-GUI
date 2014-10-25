@@ -1,0 +1,50 @@
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\bin\Debug\Graphic User Interface.xml
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form1.resources
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\obj\Debug\Graphic_User_Interface.Resources.resources
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\obj\Debug\Graphic User Interface.vbproj.GenerateResource.Cache
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\obj\Debug\Graphic User Interface.xml
+C:\Users\AlfredX\AppData\Local\Temporary Projects\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.xml
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.xml
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form1.resources
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Resources.resources
+C:\Users\AlfredX\Documents\Visual Studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.vbproj.GenerateResource.Cache
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.xml
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.xml
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form1.resources
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Resources.resources
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.vbproj.GenerateResource.Cache
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.xml
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.xml
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form1.resources
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Resources.resources
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.vbproj.GenerateResource.Cache
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Power.mdf
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Power_log.ldf
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form2.resources
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.vbprojResolveAssemblyReference.cache
+C:\Users\AlfredX\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form3.resources
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Power.mdf
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\bin\Debug\Power_log.ldf
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.vbprojResolveAssemblyReference.cache
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form2.resources
+C:\Users\Alfred\Dropbox\school files\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form3.resources
